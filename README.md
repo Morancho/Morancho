@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <p>Enginyer de programari orientat al desenvolupament d'aplicacions robustes, integració de sistemes i disseny d'arquitectures web/mòbil. Actualment combinant la formació d'enginyeria a la <b>Universitat de Barcelona (UB)</b> amb el desenvolupament de solucions comercials de mercat i projectes d'automatització.</p>
+      <p>Enginyer informàtic, realitzant desenvolupament d'aplicacions robustes, integració de sistemes i disseny d'arquitectures web/mòbil. Actualment combinant la formació d'enginyeria a la <b>Universitat de Barcelona (UB)</b> amb el desenvolupament de solucions comercials de mercat i projectes d'automatització.</p>
       <ul>
         <li>🛡️ <b>Sistemes i Baix Nivell:</b> Implementació d'estructures en C/C++, optimització en arquitectures de computadors i sistemes encastats.</li>
         <li>📱 <b>Desenvolupament Mòbil & Web:</b> Creació d'aplicacions mòbils natives utilitzant arquitectura neta (Clean Architecture) i aplicació pràctica d'Intel·ligència Artificial en línia de producció.</li>
