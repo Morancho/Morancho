@@ -1,62 +1,92 @@
-# Oriol Morancho | Software & Systems Engineer
+# Oriol Morancho
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <p>Enginyer informàtic, realitzant desenvolupament d'aplicacions robustes, integració de sistemes i disseny d'arquitectures web/mòbil. Actualment combinant la formació d'enginyeria a la <b>Universitat de Barcelona (UB)</b> amb el desenvolupament de solucions comercials de mercat i projectes d'automatització.</p>
-      <ul>
-        <li>🛡️ <b>Sistemes i Baix Nivell:</b> Implementació d'estructures en C/C++, optimització en arquitectures de computadors i sistemes encastats.</li>
-        <li>📱 <b>Desenvolupament Mòbil & Web:</b> Creació d'aplicacions mòbils natives utilitzant arquitectura neta (Clean Architecture) i aplicació pràctica d'Intel·ligència Artificial en línia de producció.</li>
-        <li>💬 <b>Contacte Professional:</b> <a href="mailto:oriolmn2006@gmail.com">oriolmn2006@gmail.com</a></li>
-      </ul>
-      <p>
-        <a href="https://www.linkedin.com/in/oriol-morancho-664817396"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-      </p>
-    </td>
-    <td width="35%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Morancho&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%">
-    </td>
-  </tr>
-</table>
+**Computer Engineering student · Data Engineering · Applied AI**
 
----
+Computer Engineering student at the **University of Barcelona (UB)**, focused on **data engineering** and **applied AI**. I build data pipelines and reporting automation in a professional setting, ship production websites for real clients, and develop AI systems that run on-device.
 
-### 🚀 Featured Production Projects
-
-* **⛵ [Web de Tours en Barca | Barcatour Llançà](https://www.barcatourllanca.com/)** *Production Project / Commercial Solution* Disseny, enginyeria de frontend i optimització SEO completa d'un lloc web de producció responsiu adaptat a necessitats del mercat local. Enfocat en la conversió d'usuaris, el rendiment en càrrega web i l'experiència d'usuari (UX).
-
-* **🤖 [CV Generator AI | Plataforma SaaS](https://creador-cv-ia.onrender.com/)** *Product Development / Artificial Intelligence* Aplicació web dinàmica dissenyada per a l'automatització i creació intel·ligent de currículums mitjançant models d'IA. Implementació de la lógica de negoci, generació estructurada de documents i desplegament a l'entorn de Render.
-
----
-
-### 🛠️ Core Technologies & Tools
-
-#### Llenguatges de Programació & Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="42" height="42"/>
-</p>
-
-#### Entorns Mòbils, Encastats & Web
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/>
+<p>
+  <a href="mailto:oriolmn2006@gmail.com"><img src="https://img.shields.io/badge/Email-oriolmn2006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/oriol-morancho-664817396"><img src="https://img.shields.io/badge/LinkedIn-Oriol%20Morancho-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
-### 📊 Language Metric Analysis
+## Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morancho&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="75%">
+**Data Engineering Intern** · Barcelona · 2026 – present
+- Migrating and automating business reports into orchestrated data pipelines with **Apache Airflow** on Linux.
+- Working in a shared codebase with code review and pull-request workflows.
+
+---
+
+## Featured Projects
+
+### [Les Ametlles](https://lesametlles.com/) · Production website
+*Client project · Astro*
+
+Direct-booking website for a holiday rental in the Empordà region of Catalonia.
+- **Multilingual:** Catalan, Spanish, English and French.
+- **Availability calendar** combining bookings from Booking.com and Airbnb.
+- **Technical SEO:** per-language metadata and Open Graph tags, canonical URLs, indexed on Google and monitored with Search Console.
+- **Performance and privacy:** optimized WebP images and a Google Maps embed that only loads on user interaction.
+
+### [Barcatour Llançà](https://www.barcatourllanca.com/) · Production website
+*Client project*
+
+Responsive website for a local boat-tour business: design, frontend development and SEO, focused on conversion, load speed and user experience.
+
+---
+
+## AI & Machine Learning
+
+### MetroGuard · On-device fare-evasion detection
+*Interhack BCN 2026 hackathon*
+
+Edge AI system that detects fare evasion at metro turnstiles, running the model **on-device** on an Arduino UNO Q (Edge Impulse) and publishing events over **MQTT**. Includes the model pipeline, system architecture, scalability roadmap and a cost comparison.
+
+### PhotΩhm · Circuit recognition from photos
+*Mobile app · Computer vision*
+
+Android circuit simulator that recognizes components from a photo. Built a local **OpenCV** preprocessing pipeline (grayscale, binarization, CLAHE, perspective correction) to make recognition robust to noisy camera images, keeping all processing on-device.
+
+I also integrate large language models into production web applications, and have academic training in computer vision and machine learning.
+
+---
+
+## Tech Stack
+
+**Data & Backend**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+**AI & Computer Vision**
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Edge%20Impulse-3B47C2?style=flat-square" alt="Edge Impulse">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
+  <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square" alt="LLM APIs">
+</p>
+
+**Web & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" alt="CSS">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+</p>
+
+**Systems & Embedded**
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java">
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
 </p>
