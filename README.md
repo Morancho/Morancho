@@ -2,36 +2,36 @@
 
 **Computer Engineering student · Data Engineering · Applied AI**
 
-Computer Engineering student at the **University of Barcelona (UB)**, focused on **data engineering** and **applied AI**. I build data pipelines and reporting automation in a professional setting, ship production websites for real clients, and develop AI systems that run on-device.
+Computer Engineering student at the **University of Barcelona (UB)**, focused on **data engineering** and **applied AI**. I build data pipelines and process automations in a professional setting, ship production websites for real businesses, and develop AI systems that run on-device.
 
 <p>
   <a href="mailto:oriolmn2006@gmail.com"><img src="https://img.shields.io/badge/Email-oriolmn2006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/oriol-morancho-664817396"><img src="https://img.shields.io/badge/LinkedIn-Oriol%20Morancho-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/oriol-morancho"><img src="https://img.shields.io/badge/LinkedIn-Oriol%20Morancho-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
 ## Experience
 
-**Data Engineering Intern** · Barcelona · 2026 – present
-- Migrating and automating business reports into orchestrated data pipelines with **Apache Airflow** on Linux.
-- Working in a shared codebase with code review and pull-request workflows.
+**Software Engineering Intern (Python & Data)** · IT Development & Innovation team · Barcelona · 2026 – present
+- Developing data pipelines and process automations in **Python** and **Apache Airflow**.
+- Working with code review, pull requests, and test and production environments.
 
 ---
 
 ## Featured Projects
 
 ### [Les Ametlles](https://lesametlles.com/) · Production website
-*Client project · Astro*
+*Production website · Astro*
 
-Direct-booking website for a holiday rental in the Empordà region of Catalonia.
+Direct-booking website for a family-run holiday rental in the Empordà region of Catalonia.
 - **Multilingual:** Catalan, Spanish, English and French.
 - **Availability calendar** combining bookings from Booking.com and Airbnb.
 - **Technical SEO:** per-language metadata and Open Graph tags, canonical URLs, indexed on Google and monitored with Search Console.
 - **Performance and privacy:** optimized WebP images and a Google Maps embed that only loads on user interaction.
 
 ### [Barcatour Llançà](https://www.barcatourllanca.com/) · Production website
-*Client project*
+*Web design and development*
 
 Responsive website for a local boat-tour business: design, frontend development and SEO, focused on conversion, load speed and user experience.
 
